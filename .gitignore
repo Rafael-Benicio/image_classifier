@@ -1,0 +1,8 @@
+# Build and configuration 
+build.bash
+devPython
+
+# data folders
+img
+models
+targets
